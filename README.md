@@ -4,7 +4,7 @@
 
 ## Visit My Page : https://github.com/the-doubteee
 
-##Veer Bhogya Vasundhra
+## Veer Bhogya Vasundhra
 
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 
@@ -21,7 +21,6 @@
 ### Languages and Tools :computer:
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102)
@@ -35,16 +34,14 @@
 
 
 
-
-
 <!--
 - 🔭 I’m currently working on Some Projects
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Backend Devs
-- 🤔 I’m looking for help with Backend
-- 💬 Ask me about Flutter/Dart
+- 👯 I’m looking to collaborate on Web Development Projects
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about JAVA
 - 📫 How to reach me: ankitrudra2001@gmail.com
-- ⚡ Fun fact: Milky Way Galaxy is White in Color as a Morning Snow 😄
+- ⚡ Travelling Always on Army Quota (BRAT)  😄
 
 ![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=the-doubteee&show_icons=true&theme=dracula)
 -->
