@@ -42,4 +42,4 @@
 - 📫 How to reach me: ankitrudra2001@gmail.com
 - ⚡ Travelling Always on Army Quota (BRAT)  😄
 
-![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=the-doubteee&show_icons=true&theme=dracula)
+
