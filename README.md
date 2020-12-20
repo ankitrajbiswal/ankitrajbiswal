@@ -2,10 +2,9 @@
 
 ## I'm Ankit Raj Biswal
 
-## Visit My Page : https://github.com/the-doubteee
-
 ## Veer Bhogya Vasundhra
 
+## Visit My Page : https://github.com/the-doubteee
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 
 ### About me :eyes:
