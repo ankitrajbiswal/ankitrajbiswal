@@ -14,8 +14,8 @@
 - :e-mail: Ask me about anything ; **[ankitrudra2001@gmail.com](ankitrudra2001@gmail.com)**
 
 
-![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=head-hunter25&show_icons=true&theme=dracula)
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=head-hunter25&theme=tokyonight)
+![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&show_icons=true&theme=dracula)
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitrajbiswal&theme=tokyonight)
 
 ### Languages and Tools :computer:
 
