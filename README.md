@@ -6,7 +6,7 @@
 
 ## Visit My Page : https://github.com/ankitrajbiswal
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham44-code&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajbiswal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajbiswal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajbiswal" /> </p>
 
 ### About me :eyes:
 
