@@ -4,7 +4,7 @@
 
 ## Veer Bhogya Vasundhra
 
-## Visit My Page : https://github.com/ankitrajbiswal
+## Visit My Page : ankitrajbiswal.netlify.app
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajbiswal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajbiswal" /> </p>
 
