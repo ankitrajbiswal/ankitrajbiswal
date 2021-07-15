@@ -8,6 +8,12 @@
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajbiswal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajbiswal" /> </p>
 
+
+
+<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></p>
+
+
+
 ### About me :eyes:
 
 - :dart: JAVA and Flutter Developer  
