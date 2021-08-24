@@ -33,6 +33,23 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
+  
+### inCoding 👨🏻‍💻
+
+<img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
+<img src="https://img.icons8.com/fluent/28/000000/console.png"/>
+<img src="https://img.icons8.com/color/28/000000/git.png"/>
+<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/code.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
+<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
+
+
+```
+I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
+```
+
 
 
 
@@ -40,16 +57,6 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 ![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitrajbiswal&theme=tokyonight)
 
-### Languages and Tools :computer:
-
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
-![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?logo=visual%20studio%20code)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
