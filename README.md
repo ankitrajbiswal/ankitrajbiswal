@@ -52,10 +52,12 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
 ```
 
+```
+They find me attractive so do i 😉.
+```
 
-
-
-
+### Profile Overview 👀
+  
 ![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitrajbiswal&theme=tokyonight)
 
@@ -63,17 +65,10 @@ I keep going dates with them 💗, best part no one hates me for going on date w
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
 
+```
+And at last some stats to impress my next 😍😉.
+```
 
-
-
-
-
-- 🔭 I’m currently working on Some Projects
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about JAVA
-- 📫 How to reach me: ankitrudra2001@gmail.com
-- ⚡ Travelling Always on Army Quota (BRAT)  😄
+</details>
 
 
