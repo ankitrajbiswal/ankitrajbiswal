@@ -15,13 +15,15 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitrajbiswal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitrajbiswal" /> </p>
 
+### Find Me Here 👇🏻
+
+[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/AnkitRajBiswal4?s=09)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/ankit-raj-biswal-9705051a4/)
+[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/headhunter25)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/_head_hunter25/?hl=en)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/ankitrudra2001) <br>
+[![Gmail Badge](https://img.shields.io/badge/-vashish888@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitrudra2001@gmail.com)](mailto:ankitrudra2001@gmail.com)
 
 
-### About me :eyes:
-
-- :dart: JAVA and Flutter Developer  
-- :heart: Now a Cadet at **[NCC](https://www.joinindianarmy.nic.in)**
-- :e-mail: Ask me about anything ; **[ankitrudra2001@gmail.com](ankitrudra2001@gmail.com)**
 
 
 ![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&show_icons=true&theme=dracula)
@@ -41,11 +43,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
 
-### Reach out to me 👓
-|  <a href="https://www.github.com/head-hunter25/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="100px" height="100px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Ankit Raj Biswal](https://www.github.com/the-doubteee/)**                                                                                |
-|<a href="https://twitter.com/AnkitRajBiswal4?s=09"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.github.com/ankitrajbiswal"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/beingairbornesf25/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ankit-raj-biswal-9705051a4/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/_head_hunter25/?hl=en"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> |
+
 
 
 
