@@ -37,8 +37,8 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 ### inCoding 👨🏻‍💻
 
 <img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
-<img src="https://icons8.com/color/28/000000/ubuntu.png"/>
-<img src="https://icons8.com/color/28/000000/apple-logo.png"/>
+<img src="https://img.icons8.com/metro/32/fa314a/ubuntu.png"/>
+<img src="https://img.icons8.com/material-two-tone/32/000000/mac-os.png"/>
 <img src="https://img.icons8.com/fluent/28/000000/console.png"/>
 <img src="https://img.icons8.com/color/28/000000/git.png"/>
 <img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
