@@ -23,6 +23,17 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 [![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/_head_hunter25/?hl=en)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/ankitrudra2001) <br>
 [![Gmail Badge](https://img.shields.io/badge/-ankitrudra2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitrudra2001@gmail.com)](mailto:ankitrudra2001@gmail.com)
 
+### Proud Creator of 😎
+
+[![Image Encryption and Decryption Card](https://github-readme-stats.vercel.app/api/pin/?username=ankitrajbiswal&repo=Image-Encryption-and-Decryption)](https://github.com/ankitrajbiswal/Image-Encryption-and-Decryption)[![Voice Asisstant Card](https://github-readme-stats.vercel.app/api/pin/?username=ankitrajbiswal&repo=Voice-Asisstant)](https://github.com/ankitrajbiswal/Voice-Asisstant)
+
+<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
+
+---
+
+<details close>
+<summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
+
 
 
 
