@@ -67,7 +67,7 @@ And at last some stats to impress my next 😍😉.
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
 
 
 
