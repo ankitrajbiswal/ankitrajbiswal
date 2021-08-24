@@ -58,6 +58,10 @@ They find me attractive so do i 😉.
 
 ### Profile Overview 👀
   
+```
+And at last some stats to impress my next 😍😉.
+```
+  
 ![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&show_icons=true&theme=dracula)
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitrajbiswal&theme=tokyonight)
 
@@ -65,9 +69,7 @@ They find me attractive so do i 😉.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
 
-```
-And at last some stats to impress my next 😍😉.
-```
+
 
 </details>
 
