@@ -39,8 +39,8 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 <p align="center">
 
 <img width="500" src="https://metrics.lecoq.io/ankitrajbiswal" alt="Github Metrics">
-  
-<br>
+
+</p>
   
 ### inCoding 👨🏻‍💻
 
