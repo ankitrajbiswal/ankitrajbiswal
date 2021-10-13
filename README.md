@@ -34,6 +34,14 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
   
+ <br>
+
+<p align="center">
+
+<img width="500" src="https://metrics.lecoq.io/ankitrajbiswal" alt="Github Metrics">
+  
+<br>
+  
 ### inCoding 👨🏻‍💻
 
 <img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
