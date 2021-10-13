@@ -69,25 +69,15 @@ They find me attractive so do i 😉.
 ```
 And at last some stats to impress my next 😍😉.
 ```
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrajbiswal&theme=highcontrast&show_icons=true&layout=compact" alt="ankitrajbiswal" />
 
-![Ankit Raj Biswal's github stats](https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&show_icons=true&theme=dracula)
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankitrajbiswal&theme=tokyonight)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitrajbiswal&theme=highcontrast&show_icons=true" alt="ankitrajbiswal" />
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitrajbiswal&theme=highcontrast&hide_border=false" alt ="ankitrajbiswal" />
   
-![](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=redical)
-  
-  
-  
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatsamal&theme=highcontrast&show_icons=true&layout=compact" alt="saswatsamal" />
+![](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=highcontrast)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saswatsamal&theme=highcontrast&show_icons=true" alt="saswatsamal" />
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=saswatsamal&theme=highcontrast&hide_border=false" alt ="saswatsamal" />
-
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=saswatsamal" alt ="saswatsamal" /> 
 
 
 
