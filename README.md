@@ -75,7 +75,7 @@ And at last some stats to impress my next 😍😉.
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ankitrajbiswal&theme=highcontrast&hide_border=false" alt ="ankitrajbiswal" />
   
-![](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=highcontrast)
+![](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=radical)
 
 
 
