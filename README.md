@@ -78,6 +78,16 @@ And at last some stats to impress my next 😍😉.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajbiswal&theme=dracula&hide_langs_below=1" />
   
 ![](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=redical)
+  
+  
+  
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saswatsamal&theme=highcontrast&show_icons=true&layout=compact" alt="saswatsamal" />
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saswatsamal&theme=highcontrast&show_icons=true" alt="saswatsamal" />
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=saswatsamal&theme=highcontrast&hide_border=false" alt ="saswatsamal" />
+
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=saswatsamal" alt ="saswatsamal" /> 
 
 
 
