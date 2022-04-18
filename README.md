@@ -1,4 +1,6 @@
-<p align="center"><img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></p>
+<p align="center">
+  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+</p>
 
 ### Hi there 👋
 
