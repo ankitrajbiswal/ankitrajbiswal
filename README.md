@@ -81,7 +81,7 @@ And at last some stats to impress my next 😍😉.
 
 ![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-![Ankit's github activity graph](https://github.com/ankitrajbiswal/ankitrajbiswal/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 
