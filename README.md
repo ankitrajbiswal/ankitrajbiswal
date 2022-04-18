@@ -79,9 +79,9 @@ And at last some stats to impress my next 😍😉.
 </p>
 
 
-![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitrajbiswal&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Ankit's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
