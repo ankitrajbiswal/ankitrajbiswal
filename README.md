@@ -21,8 +21,8 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 [![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/AnkitRajBiswal4?s=09)
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/ankit-raj-biswal-9705051a4/)
-[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/headhunter25)
-[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/_head_hunter25/?hl=en)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/ankitrudra2001) <br>
+[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/ankitrajbiswal)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/xxvvi.mmi/?hl=en)[![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/ankitrudra2001) <br>
 [![Gmail Badge](https://img.shields.io/badge/-ankitrudra2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitrudra2001@gmail.com)](mailto:ankitrudra2001@gmail.com)
 
 ### Proud Creator of 😎
